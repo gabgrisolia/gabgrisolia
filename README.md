@@ -14,8 +14,9 @@ Focada em Back-end 🚀
 
 ### 🛠️ Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,sql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,postgres,git,github" />
 </p>
+
 
 
   ---

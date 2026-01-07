@@ -16,11 +16,10 @@ Focada em Back-end 🚀
 - Python  
 - JavaScript  
 - SQL  
-- Git & GitHub  
+- Git & GitHub
 
----
+  ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabgrisolia&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
-

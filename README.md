@@ -23,10 +23,10 @@ Focada em Back-end 🚀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
 </div>
 
+---
 
-
-  ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabgrisolia&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+## 📊 GitHub Stats
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrisolia&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrisolia&layout=compact&theme=tokyonight"/>
+</div>

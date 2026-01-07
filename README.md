@@ -13,10 +13,10 @@ Focada em Back-end 🚀
 - Banco de Dados  
 
 ### 🛠️ Tecnologias
-- Python  
-- JavaScript  
-- SQL  
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,sql,git,github" />
+</p>
+
 
   ---
 

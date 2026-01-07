@@ -1,16 +1,19 @@
-## Oi, eu sou a Gabriela 👋
+<h2 align="center">Oi, eu sou a Gabriela 👋</h2>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Em transição e aprendizado na área de TI  
-🚀 Focada em Back-end  
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas <br>
+Focada em Back-end 🚀
+</p>
+
+---
 
 ### 📚 O que estou estudando
-- Lógica de programação
-- Back-end
-- Banco de dados
+- Lógica de programação  
+- Desenvolvimento Back-end  
+- Banco de Dados  
 
 ### 🛠️ Tecnologias
-- Python
-- JavaScript
-- SQL
-- Git e GitHub
+- Python  
+- JavaScript  
+- SQL  
+- Git & GitHub  

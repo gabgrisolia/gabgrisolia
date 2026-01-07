@@ -1,16 +1,16 @@
-## Hi there 👋
+## Oi, eu sou a Gabriela 👋
 
-<!--
-**gabgrisolia/gabgrisolia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Em transição e aprendizado na área de TI  
+🚀 Focada em Back-end  
 
-Here are some ideas to get you started:
+### 📚 O que estou estudando
+- Lógica de programação
+- Back-end
+- Banco de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- Python
+- JavaScript
+- SQL
+- Git e GitHub
